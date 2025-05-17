@@ -4,5 +4,5 @@
 
  Model Accuracy :- 98.42% 
 
-# sign predictom 
+# sign prediction 
  Predicted sign class:- 00013
